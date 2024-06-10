@@ -3,7 +3,7 @@ This repository provides a PDF file showing the contents of the master thesis in
 # How to get access to the master thesis: Machine learning library to support applications with embedded systems and parallel computing
 ![Click here to get a quick glimpse of the content of this master thesis (Preview version of this Master Thesis).](PREVIEW-Machine_learning_library_to_support_applications_with_embedded_systems_and_parallel_computing.pdf)
 
-If you are interested in obtaining the full thesis document, which is only available in English (although at the beginning you may find a couple of pages in Spanish related to law subjects from where it was published), you can obtain it free of charge by simply requesting it and indicating who you are or who you represent through the following email: cmirandameza3@hotmail.com
+If you are interested in obtaining the full thesis document, which is only available in English (although at the beginning you may find a couple of pages in Spanish related to law subjects from where it was published), you can obtain it free of charge by simply requesting it and indicating who you are or who you represent to the following email: cmirandameza3@hotmail.com
 
 # Cite this project in yours!
 
