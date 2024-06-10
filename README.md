@@ -4,6 +4,15 @@ If you are interested in obtaining the full thesis document, which is only avail
 
 cmirandameza3@hotmail.com
 
+# Preview of the master thesis: Machine learning library to support applications with embedded systems and parallel computing
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<div> <embed src="PREVIEW-Machine_learning_library_to_support_applications_with_embedded_systems_and_parallel_computing.pdf" width="800px" height="2100px" />
+</div>
+</body>
+</html>
+
 ![Machine_learning_library_to_support_applications_with_embedded_systems_and_parallel_computing (preview version)](PREVIEW-Machine_learning_library_to_support_applications_with_embedded_systems_and_parallel_computing.pdf)
 
 # Cite this project in yours!
@@ -21,3 +30,4 @@ address = {Tijuana, B.C., Mexico},
 year   = {2022}
 }
 ```
+
